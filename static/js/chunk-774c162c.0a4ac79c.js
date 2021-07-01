@@ -1,6 +1,6 @@
 /*!
  *  build: admin-vue-antd 
  *  copyright: AndPHP 417170808@qq.com 
- *  time: 2021-7-1 14:49:42
+ *  time: 2021-7-1 15:38:42
  */
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-774c162c"],{fd32:function(n,c,o){n.exports={"menu-color":"hsla(0, 0%, 100%, 0.95)","menu-color-active":"hsla(0, 0%, 100%, 0.95)","menu-background":"#282c34","gallery-second-menu-background":"#fff"}}}]);
