@@ -1,6 +1,6 @@
 /*!
  *  build: admin-vue-antd 
  *  copyright: AndPHP 417170808@qq.com 
- *  time: 2021-7-2 15:37:03
+ *  time: 2021-7-5 10:54:23
  */
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d215c68"],{c049:function(t,e,r){"use strict";r.r(e),r.d(e,"list",(function(){return c})),r.d(e,"subStock",(function(){return o})),r.d(e,"update",(function(){return p}));var n=r("1da1"),u=(r("96cf"),r("b775")),a="manage";function c(t){return i.apply(this,arguments)}function i(){return i=Object(n["a"])(regeneratorRuntime.mark((function t(e){return regeneratorRuntime.wrap((function(t){while(1)switch(t.prev=t.next){case 0:return t.abrupt("return",Object(u["default"])({url:a+"/flight/stock/list",method:"get",params:e}));case 1:case"end":return t.stop()}}),t)}))),i.apply(this,arguments)}function o(t){return s.apply(this,arguments)}function s(){return s=Object(n["a"])(regeneratorRuntime.mark((function t(e){return regeneratorRuntime.wrap((function(t){while(1)switch(t.prev=t.next){case 0:return t.abrupt("return",Object(u["default"])({url:a+"/flight/stock/sub_stock",method:"put",data:e}));case 1:case"end":return t.stop()}}),t)}))),s.apply(this,arguments)}function p(t){return f.apply(this,arguments)}function f(){return f=Object(n["a"])(regeneratorRuntime.mark((function t(e){return regeneratorRuntime.wrap((function(t){while(1)switch(t.prev=t.next){case 0:return t.abrupt("return",Object(u["default"])({url:a+"/flight/stock/update",method:"put",data:e}));case 1:case"end":return t.stop()}}),t)}))),f.apply(this,arguments)}}}]);
